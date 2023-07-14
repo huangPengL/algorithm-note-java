@@ -1,6 +1,8 @@
 # algorithm-note-java
 
 > 「记录那些年的算法生涯」
+> 目前已整理完acwing的代码，蓝桥杯相关代码持续更新中🙄...
+
 
 ## 👇面试必刷题型分类题单（Leetcode / acwing / 蓝桥杯）
 ### 基础算法：
